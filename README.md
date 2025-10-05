@@ -67,6 +67,10 @@ This project builds a sentiment analysis model that automatically classifies rev
   - Positive: “Thank the customer and invite them back.”
   - Negative: “Apologize and offer a fix.”
   - Neutral: “Engage for more details.”
+![App Screenshot](Positive.png)
+![App Screenshot](Negative.png)
+![App Screenshot](Neutral.png)
+
 
 ---
 
