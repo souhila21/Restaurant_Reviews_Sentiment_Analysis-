@@ -78,8 +78,8 @@ This project builds a sentiment analysis model that automatically classifies rev
 
 ```bash
 # Clone the repo
-git clone https://github.com/souhila21/restaurant-review-classifier.git
-cd restaurant-review-classifier
+git clone https://github.com/souhila21/Restaurant_Reviews_Sentiment_Analysis.git
+cd Restaurant_Reviews_Sentiment_Analysis
 
 # Install dependencies
 pip install -r requirements.txt
